@@ -1,3 +1,4 @@
 1. Creatre Repo at github
 2. Create one text file in your local machine
 3. upload text file in your machine
+4. update file using git bash
